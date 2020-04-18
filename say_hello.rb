@@ -1,3 +1,3 @@
-def introduction say_hello(name = "Ruby Programmer")
-  puts "Hello # {name} !"
+def introduction (name)
+  puts "Hi my name is # {name}."
 end
