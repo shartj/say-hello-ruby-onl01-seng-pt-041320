@@ -1,3 +1,2 @@
-def introduction (name)
-  puts "Hi my name is # {name}."
+def say_hello("Gabriela")
 end
